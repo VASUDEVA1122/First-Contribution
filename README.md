@@ -5,5 +5,5 @@ Today Learned about making Zerodha Landing page using HTML-Basics-Tags-And-Attri
 <br></br>
 Thanks to Harkirat 
 <br></br>
-Author - Supriyo Chakraborty# 
+Author - Supriyo Chakraborty
 
